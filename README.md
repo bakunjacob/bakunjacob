@@ -1,67 +1,82 @@
-# 👋 Hey, I’m Jacob
+![IMG_20250212_211416](https://github.com/user-attachments/assets/53414cb8-7050-4ba2-a563-9575f74fd64d)
 
-Welcome to my corner of GitHub — where creativity meets code, and mythical creatures occasionally get their own AI-generated vlogs.
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
+<p align="center">
+  <em>A creative mind exploring the world of code and design.</em>
+</p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=From+Textures+to+Tech;Learning+HTML,+CSS,+and+JavaScript;Animation+Veteran+Turned+Web+Dev;Creating+Stylized+Worlds+%E2%86%92+Clean+Code;Building+the+Future+One+Page+at+a+Time" alt="Typing SVG" />
+</p>
 
-## 🎮 From Pixels to Procedural Storytelling
-
-I originally studied **Video Game Design and Animation**, with a specialization in **texture creation**. My creative toolkit includes:
-
-- 🎨 Substance Designer & Painter  
-- 📦 Autodesk Maya & 3DS Max  
-- 🎬 Industry experience working on *Paw Patrol*  
-- 🧠 A love for world-building, narrative design, and visual storytelling
 
 ---
 
-## 🧪 Currently Experimenting With...
+## 🧑‍🎓 About Me
 
-These days, I’m exploring the crossroads of animation, storytelling, and AI. Some recent projects include:
+🎓 I'm currently a student at **trIOS College**, studying *Web and Development Fundamentals*. I'm just getting started with tools like **GitHub** and will soon be diving into web technologies such as:
 
-- 🎥 Bigfoot and Slender Man vlogs generated with Veo 3  
-- 🍽️ Frodo Baggins hosting a cooking show  
-- 🤖 Prompt engineering to create hilarious and strangely emotional video moments  
-- 🌀 Exploring how randomness + human intention = great storytelling
+- 🌐 **HTML**
+- 🎨 **CSS**
+- ⚙️ **JavaScript**
+- 🧩 *More languages to come...*
 
----
-
-## 🛠️ Skills & Tools
-
-- 🧰 Git, GitHub, and version control
-- 📄 Markdown for clean documentation
-- 🧪 AI video generation (Veo 3)
-- 🔧 Procedural content creation
-- ✍️ Creative scripting, world-building, and digital storytelling
+Right now, my focus is on learning how to build, version, and manage code like a pro. 💻
 
 ---
 
-## 🎓 Learning & School Projects
+## 🎮 My Creative Origins
 
-As part of my coursework, I’m building hands-on skills through:
-- GitHub workflow simulations
-- README formatting & Markdown practice
-- Learning by doing (and occasionally breaking stuff in a safe way)
+Before web dev, I came from the world of digital art and animation.
 
----
+In **2017**, I started studying **Video Game Design and Animation**, where I specialized in creating **textures** and **materials** for:
 
-## 🎯 Goals
+🎮 Video Games • 📺 TV Shows • 🎬 Films
 
-- Fuse my animation background with modern AI tools  
-- Make storytelling more interactive and dynamic  
-- Build something fun, weird, and maybe even meaningful  
-- Learn to use GitHub with confidence (and style)
+I’ve used industry tools such as:
 
----
+- 🖌️ **Substance Painter**
+- 🧱 **Substance Designer**
+- 🧊 **Maya**
+- 🖥️ **3DS Max**
 
-## 💬 Fun Fact
+I worked professionally in the animation industry, most notably at **Guru Studio** on the beloved children’s series *Paw Patrol*, developing stylized textures and materials. 🌟
 
-> _"Stories don’t always go as planned — and that’s what makes them worth telling."_  
+Sadly, I was affected by the industry-wide layoffs in **June 2023**, but I’ve taken that moment as an opportunity to grow and pivot into something new — and I’m loving every minute of it.
 
 ---
 
-### 📫 Let’s Connect
+## 🚀 What I’m Excited About
 
-Coming soon: links to portfolio, socials, and more.
+Here’s what I’m looking forward to as I level up in web development:
+
+- 🔧 Building beautiful, responsive websites
+- 🌐 Learning front-end and back-end technologies
+- 🎨 Applying my creative eye to user interfaces
+- 🌱 Growing in a new industry while blending past skills
 
 ---
+
+## 🛠️ Tools & Tech I'm Learning
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📫 Connect With Me
+
+> I’ll be adding more ways to connect as I build my portfolio — stay tuned!
+
+<!-- You can uncomment and customize below later:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+-->
+
+---
+
+<p align="center">
+  ✨ Thanks for visiting my profile — follow along as I grow! ✨
+</p>
